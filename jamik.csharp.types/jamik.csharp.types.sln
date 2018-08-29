@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jamik.csharp.types", "jamik.csharp.types\jamik.csharp.types.csproj", "{ADD7F8B2-1BE9-42F5-9ADA-682F1C96E1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jamik.csharp.types.tests", "jamik.csharp.types.tests\jamik.csharp.types.tests.csproj", "{EC378C43-CAD9-401D-8D0E-A02CB603C124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD7F8B2-1BE9-42F5-9ADA-682F1C96E1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD7F8B2-1BE9-42F5-9ADA-682F1C96E1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD7F8B2-1BE9-42F5-9ADA-682F1C96E1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD7F8B2-1BE9-42F5-9ADA-682F1C96E1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC378C43-CAD9-401D-8D0E-A02CB603C124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC378C43-CAD9-401D-8D0E-A02CB603C124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC378C43-CAD9-401D-8D0E-A02CB603C124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC378C43-CAD9-401D-8D0E-A02CB603C124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
